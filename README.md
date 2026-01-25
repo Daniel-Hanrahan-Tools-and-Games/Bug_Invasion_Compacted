@@ -36,7 +36,7 @@ covered by GNU GPL v3.0 are modified as described below:
 Conditions:
 
 1. The developer has made a licensing agreement with another entity
-   (excluding corporate or LLC entities) that prohibits the
+   (excluding corporate/LLC or equivalent entities) that prohibits the
    redistribution of content under copyleft licenses.
 
 2. The developer adds assets that they do not own and uses them
